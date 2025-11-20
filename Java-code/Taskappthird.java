@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Taskapp {
+public class Taskappthird {
 
     // user details
     static class User
